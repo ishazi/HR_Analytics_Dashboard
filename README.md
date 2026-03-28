@@ -114,11 +114,7 @@ Purpose: Provides a breakdown of attrition distribution by gender within each ag
 
 ---
 
-## 📷 Dashboard Preview
 
-*(Add screenshots here for better visualization)*
-
----
 
 ## 📌 Conclusion
 
